@@ -54,7 +54,7 @@ project-folder/
 Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/udaynarendragudiguntla-hash/whatsapp-auto-reply-bot.git
 ```
 
 Move into project folder
